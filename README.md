@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm Chiranjeevi Goli, a recent VVIT graduate with a degree in electronics and communication. I'm passionate about Software Development and have a strong foundation in programming with Python, C, and web technologies like HTML/CSS.<br><br>- 🌱 Currently learning: Python Django, CSS, JavaScript, and Java.<br>- 🛠️ Skills: Python, SQL, MySQL, C, HTML, CSS, Git, Digital Electronics<br>- 🔭 Working on an open-source project focused on enhancing web accessibility.<br>- 🤝 Looking to collaborate on: Web development projects and open-source contributions.<br>- 💬 Ask me about: Clean code practices, Python development, and responsive design.<br>- 📫 How to reach me: [cjheuristic@gmail.com] | [ https://www.linkedin.com/in/gchiranjeevi    ]<br>- ⚡ Fun fact: I enjoy exploring new technologies, playing basketball, and tinkering with electronics when I am not coding.<br><br>Let's connect and build something amazing together!<br>
+Hi there 👋
+
+I'm Chiranjeevi Goli, an Electronics and Communication Engineering graduate from VVIT with a strong interest in Semiconductor Technologies, VLSI, Digital Electronics, Engineering Automation, and Software Development.
+
+I enjoy building automation solutions that simplify engineering workflows and solving real-world problems through software. I have hands-on experience in Python scripting, CAPL development, test automation, simulation-based validation environments, and engineering productivity tools. My interests lie at the intersection of hardware and software, from basic electronic circuits and digital systems to semiconductor technologies and automation-driven engineering solutions.
+
+🌱 Currently learning: Digital Electronics, Semiconductor Devices, CMOS Fundamentals, VLSI Design Flow, Python Automation, and Java
+🛠️ Skills: Python, C, CAPL, SQL, MySQL, Git, GitHub, CANoe, HTML, CSS, Digital Electronics, Electronics Fundamentals
+💼 Experience: Developed automation utilities, simulation workflows, test execution tools, and engineering productivity solutions in automotive validation environments
+🔭 Currently working on: Electronics-focused projects, Python automation tools, and strengthening semiconductor and digital design fundamentals
+🤝 Looking to collaborate on: Python automation projects, electronics-related projects, semiconductor-focused learning projects, and open-source contributions
+💬 Ask me about: Python scripting, automation frameworks, CAPL, CANoe, Digital Electronics, software development, and engineering workflows
+📫 Reach me at: cjheuristic@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/gchiranjeevi
+⚡ Fun fact: I enjoy exploring how electronics and software work together to solve real-world engineering challenges, and I like tinkering with electronics when I'm not coding.
+
+Always learning, building, and exploring new technologies. Let's connect and create something impactful together!
 
 
 ## 🌐 Socials:
